@@ -1,5 +1,5 @@
 {
-    "name": "a245589351/horizon",
+    "name": "laravel/horizon",
     "description": "Dashboard and code-driven configuration for Laravel queues.",
     "keywords": ["laravel", "queue"],
     "license": "MIT",
@@ -7,12 +7,6 @@
         {
             "name": "Taylor Otwell",
             "email": "taylor@laravel.com"
-        }
-    ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/a245589351/horizon"
         }
     ],
     "require": {
