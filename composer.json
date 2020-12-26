@@ -9,6 +9,12 @@
             "email": "taylor@laravel.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/a245589351/horizon"
+        }
+    ],
     "require": {
         "php": "^7.3|^8.0",
         "ext-json": "*",
